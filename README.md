@@ -55,8 +55,8 @@ A modern, full-stack personal finance application built with Next.js 16, Prisma,
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/pft.git
-cd pft
+git clone https://github.com/VibeCodersDev/fin-track.git
+cd fin-track
 ```
 
 ### 2. Install dependencies
