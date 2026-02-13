@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest init:*)",
+      "Bash(npx shadcn@latest add button card input label select dialog dropdown-menu table badge progress separator sheet tabs avatar form toast chart sonner popover calendar command)",
+      "Bash(npx shadcn@latest add:*)",
+      "Bash(npx prisma init:*)",
+      "Bash(npx prisma generate)"
+    ]
+  }
+}
